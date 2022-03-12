@@ -2,7 +2,7 @@ import { createRouter, createWebHashHistory } from 'vue-router'
 import Home from './Home'
 import About from './About'
 import Movie from './Movie'
-import Notfound from './Notfound'
+import Notfound from './NotFound'
 
 export default createRouter({
   // Hash or History, we use Hash
