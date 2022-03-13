@@ -17,6 +17,7 @@ module.exports = {
   },
   // 추가적인 코드 규칙을 설정
   rules: {
+    'no-unused-vars':'off',
     'vue/script-setup-uses-vars': 'off',
     'vue/html-self-closing': ['error', {
       html: {
